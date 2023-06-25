@@ -4,7 +4,7 @@
 
 @section("content")
 
-<a href="articles/create">Add New Articles</a>
+<a href="articles/create">Add New Articles Here</a>
 
 
 
