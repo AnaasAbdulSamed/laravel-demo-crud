@@ -1,9 +1,10 @@
 @extends("layouts.theme")
 
 
+
 @section("content")
 
-<a href="articles/create">Add New Article</a>
+<a href="articles/create">Add New Articles</a>
 
 
 
